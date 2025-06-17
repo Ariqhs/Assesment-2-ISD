@@ -11,8 +11,7 @@ public class Main {
         graph.addCity("Hamburg (Jerman)");
         graph.addCity("Warsaw (Poland)");
         graph.addCity("Budapest(Hungary)");
-        graph.addCity("Edinburgh");
-        graph.addCity("Glasgow");
+    
 
         graph.addEdge("Paris (France)", "Brussels (Belgium)");
         graph.addEdge("Paris (France)", "Zurich (Switzerland)");
